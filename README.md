@@ -5,7 +5,7 @@
 ### 2025:
 
 - [Evaluating and Steering Modality Preferences in Multimodal Large Language Model](https://arxiv.org/pdf/2505.16703)
-   - \[2025.5\] \[evaluating\] \[steering\] \[model bias\]
+   - \[2025.5\] \[evaluating\] \[steering\] \[model preference\]
 - [WHY FOUNDATION MODELS STRUGGLE WITH CROSS-MODAL CONTEXT](https://openreview.net/pdf?id=vsborruEzK)
    - \[2025.3\] \[COLM2025\] \[evaluating\] \[multilingual\] \[model bias\]
 - [MLLMs are Deeply Affected by Modality Bias](https://arxiv.org/abs/2505.18657)
